@@ -18,7 +18,7 @@ msgstr ""
 
 msgctxt "Addon Summary"
 msgid "A skin for Kodi from theDeadman"
-msgstr "Un Skin pour Kodi par theDeadman"
+msgstr "Un habillage pour Kodi par theDeadman"
 
 msgctxt "Addon Description"
 msgid ""
@@ -79,7 +79,7 @@ msgstr "Ma Bibliothèque"
 
 msgctxt "#31013"
 msgid "Auto Update"
-msgstr "Mise à jour Automatique"
+msgstr "Mise à jour automatique"
 
 msgctxt "#31014"
 msgid "title(s)"
@@ -111,7 +111,7 @@ msgstr "Sauvegarder playlist"
 
 msgctxt "#31021"
 msgid "Clear playlist"
-msgstr "Nettoyer playlist"
+msgstr "Vider playlist"
 
 msgctxt "#31022"
 msgid "Select Items"
@@ -139,11 +139,11 @@ msgstr "En ce moment"
 
 msgctxt "#31028"
 msgid "feels like"
-msgstr "Ressentie"
+msgstr "ressentie"
 
 msgctxt "#31029"
 msgid "Current playlist"
-msgstr "Playlist Actuelle"
+msgstr "Playlist actuelle"
 
 msgctxt "#31030"
 msgid "Humidity"
@@ -151,7 +151,7 @@ msgstr "Humidité"
 
 msgctxt "#31031"
 msgid "Play Random"
-msgstr "Lecture Aléatoire"
+msgstr "Lecture aléatoire"
 
 msgctxt "#31032"
 msgid "Visualisation"
@@ -159,7 +159,7 @@ msgstr "Visualisation"
 
 msgctxt "#31033"
 msgid "Set Media Source Content"
-msgstr "Désigner la Source du Média"
+msgstr "Désigner la source du Média"
 
 msgctxt "#31034"
 msgid "Enable Debug Grid"
@@ -191,7 +191,7 @@ msgstr "Vidéo"
 
 msgctxt "#31041"
 msgid "Edit Menu Items"
-msgstr "Modifier les Objets du Menu"
+msgstr "Modifier les entrées du Menu"
 
 msgctxt "#31042"
 msgid "Specific Content type settings"
@@ -199,7 +199,7 @@ msgstr "Paramètres spécifiques du type de contenu"
 
 msgctxt "#31043"
 msgid "Reload Skin"
-msgstr "Relancer le Skin"
+msgstr "Relancer l'habillage"
 
 msgctxt "#31044"
 msgid "Debugging"
@@ -211,7 +211,7 @@ msgstr "nouvel épisode"
 
 msgctxt "#31046"
 msgid "Field:"
-msgstr "Champs"
+msgstr "Champ:"
 
 msgctxt "#31047"
 msgid "Starting in"
@@ -231,7 +231,7 @@ msgstr "cliché(s)"
 
 msgctxt "#31051"
 msgid "Disc Menu"
-msgstr "Menu du Disque"
+msgstr "Menu Disque"
 
 msgctxt "#31052"
 msgid "Reset menu to default"
@@ -243,7 +243,7 @@ msgstr "Bibliothèque musicale"
 
 msgctxt "#31054"
 msgid "by"
-msgstr "Par"
+msgstr "par"
 
 msgctxt "#31055"
 msgid "Timers"
@@ -259,7 +259,7 @@ msgstr "Créer une playlist de Musique"
 
 msgctxt "#31058"
 msgid "Music Addons"
-msgstr "Extensions Muqsique"
+msgstr "Extensions Musique"
 
 msgctxt "#31059"
 msgid "Radio"
@@ -279,7 +279,7 @@ msgstr "Mémoire"
 
 msgctxt "#31063"
 msgid "Manage content playback"
-msgstr ""
+msgstr "Gérer la lecture de contenu"
 
 msgctxt "#31064"
 msgid "CPU"
@@ -311,7 +311,7 @@ msgstr "Ecran"
 
 msgctxt "#31071"
 msgid "Communications and sharing"
-msgstr ""
+msgstr "Communications et partage"
 
 msgctxt "#31072"
 msgid "Play now"
@@ -323,7 +323,7 @@ msgstr "Guide des Chaînes"
 
 msgctxt "#31074"
 msgid "Cast and Crew"
-msgstr "Casting et "
+msgstr "Casting et équipe"
 
 msgctxt "#31075"
 msgid "Play"
@@ -331,7 +331,7 @@ msgstr "Jouer"
 
 msgctxt "#31076"
 msgid "Change Title"
-msgstr "Changer le Titre"
+msgstr "Changer le titre"
 
 msgctxt "#31077"
 msgid "Music Files"
@@ -343,7 +343,7 @@ msgstr "Actuel et suivant"
 
 msgctxt "#31079"
 msgid "Import your content into Kodi"
-msgstr "Importer votre Contenu dans Kodi"
+msgstr "Importer vos contenus dans Kodi"
 
 msgctxt "#31080"
 msgid "Programme Guide"
@@ -359,15 +359,15 @@ msgstr "Par"
 
 msgctxt "#31083"
 msgid "Skin specific options"
-msgstr "Options particulières de l'Habillage"
+msgstr "Options particulières de l'habillage"
 
 msgctxt "#31084"
 msgid "Manage Home Screen Menu"
-msgstr "Gérer le Menu de l'écran d'Accueil"
+msgstr "Gérer le menu de l'écran d'Accueil"
 
 msgctxt "#31085"
 msgid "Add Video Addon"
-msgstr "Ajouter Extension Vidéo "
+msgstr "Ajouter Extension Vidéo"
 
 msgctxt "#31086"
 msgid "Add Music Addon"
@@ -375,7 +375,7 @@ msgstr "Ajouter Extension Musique"
 
 msgctxt "#31087"
 msgid "PVR Timers"
-msgstr "PVR"
+msgstr "Minuteurs PVR"
 
 msgctxt "#31088"
 msgid "Video Addons"
@@ -383,11 +383,11 @@ msgstr "Extensions Vidéo"
 
 msgctxt "#31089"
 msgid "File Browser"
-msgstr "Navigateur Fichier"
+msgstr "Navigateur de fichiers"
 
 msgctxt "#31090"
 msgid "Music Addons"
-msgstr "Extensions Musique "
+msgstr "Extensions Musique"
 
 msgctxt "#31091"
 msgid "Add Video Playlist"
@@ -435,11 +435,11 @@ msgstr "Supprimer le Groupe"
 
 msgctxt "#31102"
 msgid "Low CPU power mode"
-msgstr "CPU en Mode Economie"
+msgstr "CPU en mode économie"
 
 msgctxt "#31103"
 msgid "Control how Kodi is used"
-msgstr "Contrôler comment utiliser Kodi"
+msgstr "Contrôler comment Kodi est utilisé"
 
 msgctxt "#31104"
 msgid "Disable this addon"
@@ -471,7 +471,7 @@ msgstr "Ordre: Décroissant"
 
 msgctxt "#31111"
 msgid "Manage your program addons"
-msgstr "Gérer vos extensions "
+msgstr "Gérer vos extensions de programmes"
 
 msgctxt "#31112"
 msgid "TV Guide"
@@ -491,7 +491,7 @@ msgstr "Décodeur Vidéo"
 
 msgctxt "#31116"
 msgid "Set home background directory"
-msgstr "Choisir le dossier fond d'écran de l'Accueil"
+msgstr "Choisir le dossier des fonds d'écran de l'Accueil"
 
 msgctxt "#31117"
 msgid "Launch addon"
@@ -523,7 +523,7 @@ msgstr "Playlist Actuelle"
 
 msgctxt "#31124"
 msgid "Search Library"
-msgstr "Chercher dans le Biblio"
+msgstr "Chercher dans la médiathèque"
 
 msgctxt "#31125"
 msgid "Searching for"
@@ -531,7 +531,7 @@ msgstr "Chercher"
 
 msgctxt "#31126"
 msgid "Settings level"
-msgstr "Niveau des Paramètres"
+msgstr "Niveau des paramètres"
 
 msgctxt "#31127"
 msgid "Resume TV"
@@ -555,7 +555,7 @@ msgstr "Basculer vers ce profil"
 
 msgctxt "#31132"
 msgid "Resume Movie"
-msgstr "Reprendre le Film"
+msgstr "Reprendre le film"
 
 msgctxt "#31133"
 msgid "Playlist shuffled"
@@ -575,11 +575,11 @@ msgstr "En lecture"
 
 msgctxt "#31137"
 msgid "Content Scraper:"
-msgstr "Contenu du Scraper"
+msgstr "Contenu du Scraper:"
 
 msgctxt "#31138"
 msgid "Stop video playing on return to menu"
-msgstr "Ne pas jouer la vidéo sur le retour menu"
+msgstr "Ne pas jouer la vidéo lors du retour menu"
 
 msgctxt "#31139"
 msgid "Version"
@@ -635,11 +635,11 @@ msgstr "Sous-titres"
 
 msgctxt "#31152"
 msgid "Press OK to cancel"
-msgstr "Choisir OK pour annuler"
+msgstr "Appuyer sur OK pour annuler"
 
 msgctxt "#31153"
 msgid "Playlist saved"
-msgstr "Playlist sauvegarder"
+msgstr "Playlist sauvegardée"
 
 msgctxt "#31154"
 msgid "Search for Subtitles"
@@ -647,7 +647,7 @@ msgstr "Rechercher des sous-titres"
 
 msgctxt "#31155"
 msgid "Go to Artist"
-msgstr "Aller àl'artiste"
+msgstr "Aller à l'artiste"
 
 msgctxt "#31156"
 msgid "Games"
@@ -655,7 +655,7 @@ msgstr "Jeux"
 
 msgctxt "#31157"
 msgid "Home: Hide Games"
-msgstr "Ecran d'Accueil: Cacher les Jeux "
+msgstr "Ecran d'Accueil: Cacher les Jeux"
 
 msgctxt "#31158"
 msgid "Go to Album"
@@ -667,15 +667,15 @@ msgstr "Inconnu"
 
 msgctxt "#31160"
 msgid "Ends"
-msgstr "Se Termine dans"
+msgstr "Se Termine à"
 
 msgctxt "#31161"
 msgid "Turn off Subtitles"
-msgstr "Enlever les Sous-titres"
+msgstr "Enlever les sous-titres"
 
 msgctxt "#31162"
 msgid "Home menu items"
-msgstr "Menu Objets de l'écran d'accueil"
+msgstr "Objets du menu de l'écran d'accueil"
 
 msgctxt "#31163"
 msgid "Music Player"
@@ -779,7 +779,7 @@ msgstr "Meilleurs Albums"
 
 msgctxt "#31188"
 msgid "season(s)"
-msgstr "Saison(s)"
+msgstr "saison(s)"
 
 msgctxt "#31189"
 msgid "episode(s)"
@@ -787,7 +787,7 @@ msgstr "épisode(s)"
 
 msgctxt "#31190"
 msgid "All Episodes"
-msgstr "Tous les Episodes"
+msgstr "Tous les épisodes"
 
 msgctxt "#31191"
 msgid "Video Settings"
@@ -807,7 +807,7 @@ msgstr "Groupe"
 
 msgctxt "#31195"
 msgid "Hide watched items:"
-msgstr "Cacher les objets visionnés"
+msgstr "Cacher les objets visionnés:"
 
 msgctxt "#31196"
 msgid "Dir"
@@ -819,7 +819,7 @@ msgstr "Temps"
 
 msgctxt "#31198"
 msgid "unwatched"
-msgstr "Non visionné"
+msgstr "non visionné"
 
 msgctxt "#31199"
 msgid "Artists in"
@@ -847,7 +847,7 @@ msgstr "Episode"
 
 msgctxt "#31205"
 msgid "No further details available."
-msgstr "Pas plus de détail disponible"
+msgstr "Pas d'autre détail disponible"
 
 msgctxt "#31206"
 msgid "Kodi System Information"
@@ -855,7 +855,7 @@ msgstr "Informations Kodi"
 
 msgctxt "#31207"
 msgid "Total uptime:"
-msgstr "Temps de fonctionnement total"
+msgstr "Temps de fonctionnement total:"
 
 msgctxt "#31208"
 msgid "Path"
@@ -863,7 +863,7 @@ msgstr "Chemin"
 
 msgctxt "#31209"
 msgid "<Source name>"
-msgstr "<Nom de la Source>"
+msgstr "<Nom de la source>"
 
 msgctxt "#31210"
 msgid "Name"
